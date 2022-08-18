@@ -1,5 +1,3 @@
-<h1>Herkese merhaba! 
-
 <p>Beyler cümleten selamın aleyküm ben kemo büyük sıkıntı 
 </body>
 
